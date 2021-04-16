@@ -1,0 +1,8 @@
+Software Requirements:
+      Python 3.7 or newer, 
+      OpenCV 4.0 or newer
+      
+To run full application:
+	  1. navigate to directory where all files are located.
+          2. activate openCV environment by entering "conda activate" in terminal
+          3. then run "python app-gui.py" in terminal
